@@ -22,8 +22,8 @@ class AppServiceProvider extends ServiceProvider
     {
         // dd(env('MIDTRANS_SERVER_KEY'));
 
-        Config::$serverKey = 'SB-Mid-server-xxxxxxx';
-        Config::$clientKey = 'SB-Mid-client-xxxxxxx';
+        Config::$serverKey = 'SB-Mid-server-xxxxxxxx';
+        Config::$clientKey = 'SB-Mid-client-xxxxxxxx';
         Config::$isProduction = false;
         Config::$isSanitized = true;
         Config::$is3ds = true;
