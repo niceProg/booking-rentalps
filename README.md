@@ -90,6 +90,6 @@ Akses aplikasi di http://127.0.0.1:8000
 
  - Status dapat berupa pending, paid, failed, dll.
 
-Lisensi
 
-Proyek ini menggunakan lisensi MIT. Anda bebas menggunakannya dengan tetap menyertakan atribusi.
+> Lisensi
+> Proyek ini menggunakan lisensi MIT. Anda bebas menggunakannya dengan tetap menyertakan atribusi.
