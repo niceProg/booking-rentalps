@@ -17,8 +17,8 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah menginstal:
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/username/rental-ps.git
-cd rental-ps
+git clone https://github.com/niceProg/booking-rentalps.git
+cd booking-rentalps
 ```
 
 **2. Install Dependensi**
